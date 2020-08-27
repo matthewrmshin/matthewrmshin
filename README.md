@@ -11,6 +11,7 @@ Hi there, I work at the Met Office as an Expert Scientific Software Engineer.
   * A system for managing run time configruations.
   * A system to manage complex cycling workflows.
 - I am learning Cloud technology and DevOps techniques these days.
+- [Me @ LinkedIn](https://www.linkedin.com/in/matthewrmshin/)
 
 <!--
 **matthewrmshin/matthewrmshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
