@@ -49,6 +49,8 @@ I joined the Met Office in 2002. I studied Material Science at Trinity College,
 University of Oxford. I gained a DPhil (aka PhD) in 2002 and an MEng (1st Class
 Honour) in 1998.
 
+[Me @ LinkedIn](https://www.linkedin.com/in/matthewrmshin/)
+
 <!--
 **matthewrmshin/matthewrmshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
