@@ -4,14 +4,16 @@ Hi there, I am an Expert Scientific Software Engineer at the Met Office's
 Weather Science Research To Operation group.
 
 I am currently working on improving the user experience in managing and working
-with application and workflow configurations for the next generation modelling
-systems. I am currently looking at how to:
+with large workflow suites for the next generation modelling systems. I am
+currently looking to:
 
 - Modularise YAML configuration files associated with JSON schemas.
-- Generate JSON schema attributes from C++ code.
+- Generate JSON schema from C++ applications.
 - Manage and organise application configurations in workflow suites.
 - Manage versioning of run time configurations in a rapid development environment.
 - Create useful form-based UI for YAML configuration files with JSON schemas.
+- Develop a user experience vision for working with NWP workflow suites and a
+  roadmap to implement the vision.
 
 In my previous role at the Met Office's Business Group Post Processing
 Application team, I worked on modernising some of our Post Processing
