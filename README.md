@@ -3,9 +3,9 @@
 Hi there, I am an Expert Scientific Software Engineer at the Met Office's
 Weather Science Research To Operation group.
 
-I am currently working on improving the user experience in managing and working
-with large workflow suites for the next generation modelling systems. I am
-currently looking to:
+2021/now: I am currently working on improving the user experience in managing
+and working with large workflow suites for the next generation modelling
+systems. I am currently looking to:
 
 - Modularise YAML configuration files associated with JSON schemas.
 - Generate JSON schema from C++ applications.
@@ -15,9 +15,9 @@ currently looking to:
 - Develop a user experience vision for working with NWP workflow suites and a
   roadmap to implement the vision.
 
-In my previous role at the Met Office's Business Group Post Processing
-Application team, I worked on modernising some of our Post Processing
-applications, which included:
+2019/2021: In my previous role at the Met Office's Business Group Post
+Processing Application team, I worked on modernising some of our Post
+Processing applications, which included:
 
 - Developing a workflow suite to allow scientists to trial different new
   post-processing applications and techniques with many years of data.
@@ -27,8 +27,8 @@ applications, which included:
 - Removing bottlenecks in various application logic to enable an on-demand API
   that triggered post processing applications in the backend.
 
-Before that, I was in the Met Office's Weather Science IT group, where
-I worked on:
+2022-2019: Before that, I was in the Met Office's Weather Science IT group,
+where I worked on:
 
 - A system to manage configuration for model application runtime, which provided
   our scientists with a common environment and a common set of toolkits to work
@@ -46,6 +46,11 @@ I worked on:
 - An application to convert the format of some data files, handling fragments of
   data files and complex platform specific issues.
 - And so on.
+
+In summary, I have over 20 years of software development/engineering experience
+in a variety of programming languages including Python, Perl, Java, Fortran, C,
+C++, Bash, JavaScript, etc. I am currently most comfortable working with Python
+in a Linux/Unix environment.
 
 I joined the Met Office in 2002. I studied Material Science at Trinity College,
 University of Oxford. I gained a DPhil (aka PhD) in 2002 and an MEng (1st Class
