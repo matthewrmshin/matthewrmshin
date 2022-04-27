@@ -5,27 +5,31 @@ management activities at the Met Office since 2002. My main interests are
 in workflow automation and configuration management, for building and running
 mission critical scientific applications on HPC, Linux clusters, and the Cloud.
 I enjoy helping colleagues to reduce complexity in their software. My work is
-used in both research and production, at the Met Office and by international
+used in both research and production at the Met Office and by international
 partners. I have varying level of experience in a variety of programming
-languages including Python, Perl, Java, Fortran, C, C++, Bash, JavaScript, SQL, etc.
+languages including Python, Perl, Java, Fortran, C, C++, Bash, JavaScript
+and SQL.
+
+I am always ready for some new challenges.
 
 ## Professional Experience
 
-### 2021/now
+### 2021 to now
 
-*Expert Scientific Software Engineer, Weather Science Research To Operation.*
+*Expert Scientific Software Engineer, Weather Science Research To Operations.*
 
 Improving the user experience in managing and working with large workflow suites
 for the next generation modelling systems for research to operational use.
 I am advising developers and users on how to modularise large model application
-configuration files, using a YAML processor application I have quickly put
-together. I am contributing to C++ applications so they can generate
-configuration schema files, which can be used to provide validation service and
-IDE integration. I am contributing to the release/deployment of the next
-generation model applications that are built from many projects under active
-development by several partner organisations.
+configuration files, using a
+[YAML processor](https://github.com/JCSDA-internal/yamlprocessor) application
+I created and maintain. I am contributing to C++ applications so they can
+generate configuration schema files, which can be used to provide validation
+services and IDE integration. I am contributing to the release/deployment of the
+next generation model applications that are built from many projects under
+active development by several partner organisations.
 
-### 2019/2021
+### 2019 to 2021
 
 *Expert Scientific Software Engineer, Business Group Post Processing Applications.*
 
@@ -43,7 +47,7 @@ I removed bottlenecks in various application logic to enable on-demand API to
 trigger post processing applications in the backend, reducing the overall
 runtime from minutes to a few seconds.
 
-### 2002/2019
+### 2002 to 2019
 
 *Expert Scientific Software Engineer,*  
 *Senior Scientific Software Engineer,*  
