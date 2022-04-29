@@ -1,14 +1,14 @@
 # About Matt
 
 I have led and contributed to various software development and lifecycle
-management activities at the Met Office since 2002. My main interests are
-in workflow automation and configuration management, for building and running
-mission critical scientific applications on HPC, Linux clusters, and the Cloud.
-I enjoy helping colleagues to reduce complexity in their software. My work is
-used in both research and production at the Met Office and by international
-partners. I have varying level of experience in a variety of programming
-languages including Python, Perl, Java, Fortran, C, C++, Bash, JavaScript
-and SQL.
+management activities since starting my career at the Met Office in 2002.
+My main interests are in workflow automation and configuration management, for
+building and running mission critical scientific applications on HPC, Linux
+clusters, and the Cloud.  I enjoy helping colleagues to reduce complexity in
+their software. My work is used in both research and production locally and by
+international partners. I have varying level of experience in a variety of
+programming languages including Python, Perl, Java, Fortran, C, C++, Bash,
+JavaScript and SQL.
 
 I am always ready for some new challenges.
 
@@ -16,7 +16,8 @@ I am always ready for some new challenges.
 
 ### 2021 to now
 
-*Expert Scientific Software Engineer, Weather Science Research To Operations.*
+*Expert Scientific Software Engineer,
+Weather Science Research To Operations, Met Office.*
 
 Improving the user experience in managing and working with large workflow suites
 for the next generation modelling systems for research to operational use.
@@ -31,7 +32,8 @@ active development by several partner organisations.
 
 ### 2019 to 2021
 
-*Expert Scientific Software Engineer, Business Group Post Processing Applications.*
+*Expert Scientific Software Engineer,
+Business Group Post Processing Applications, Met Office.*
 
 I led the development of a workflow suite to allow scientists to trial different
 new post-processing applications and techniques with many years of data.
@@ -51,7 +53,7 @@ runtime from minutes to a few seconds.
 
 *Expert Scientific Software Engineer,*  
 *Senior Scientific Software Engineer,*  
-*NWP Applications Developer, Weather Science IT.*
+*NWP Applications Developer, Weather Science IT, Met Office.*
 
 I led the design, development, and lifecycle management of
 [metomi/rose](https://github.com/metomi/rose/), a system to manage configuration
