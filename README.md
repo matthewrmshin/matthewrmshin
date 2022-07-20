@@ -1,5 +1,7 @@
 # About Matt
 
+Automate and simplify with software.
+
 I have led and contributed to various software development and lifecycle
 management activities since starting my career at the Met Office in 2002.
 My main interests are in workflow automation and configuration management, for
@@ -7,10 +9,9 @@ building and running mission critical scientific applications on HPC, Linux
 clusters, and the Cloud.  I enjoy helping colleagues to reduce complexity in
 their software. My work is used in both research and production locally and by
 international partners. I have varying level of experience in a variety of
-programming languages including Python, Perl, Java, Fortran, C, C++, Bash,
-JavaScript and SQL.
-
-I am always ready for some new challenges.
+programming languages including Python, Bash, Perl, Java, Fortran, C, C++,
+JavaScript and SQL. I am familiar with technology such as Docker, Conda,
+GitHub Actions and Sphinx.
 
 ## Professional Experience
 
@@ -21,14 +22,22 @@ Weather Science Research To Operations, Met Office.*
 
 Improving the user experience in managing and working with large workflow suites
 for the next generation modelling systems for research to operational use.
+
 I am advising developers and users on how to modularise large model application
 configuration files, using a
-[YAML processor](https://github.com/JCSDA-internal/yamlprocessor) application
-I created and maintain. I am contributing to C++ applications so they can
+[YAML processor](https://github.com/JCSDA-internal/yamlprocessor), a Python project
+I created and maintain. I am contributing to C++ applications so developers can
 generate configuration schema files, which can be used to provide validation
-services and IDE integration. I am contributing to the release/deployment of the
-next generation model applications that are built from many projects under
-active development by several partner organisations.
+services and IDE integration.
+
+I am developing the release/deployment process of the next
+generation data assimilation model applications that are built from many
+projects under active development by several partner organisations.
+I am looking for gaps in our process, as well as opportunities for
+automation.
+
+I advise and help developers on how to prepare their Python projects
+for continuous integration and packaging for release/deployment.
 
 ### 2019 to 2021
 
@@ -56,35 +65,43 @@ runtime from minutes to a few seconds.
 *NWP Applications Developer, Weather Science IT, Met Office.*
 
 I led the design, development, and lifecycle management of
-[metomi/rose](https://github.com/metomi/rose/), a system to manage configuration
-for model application runtime. It provided our scientists with a common
-environment and a common set of toolkits to work on and manage their model
-configurations for robust reproducibility. The system has been in use
-operationally for many years.
+[metomi/rose](https://github.com/metomi/rose/), a Python-based system to
+manage configuration for model application runtime. It provided our
+scientists with a common environment and a common set of toolkits to
+work on and manage their model configurations for robust reproducibility.
+The system has been in use operationally for many years.
 
 I led and coordinated the development and lifecycle management of
-[cylc/cylc-flow](https://github.com/cylc/cylc-flow/), a workflow scheduling
-system, which provided our scientists, engineers, and system analysts a
-common environment to run workflow suites to submit jobs on the HPC and
-other computing resources, from simple workflows to complex cycling
+[cylc/cylc-flow](https://github.com/cylc/cylc-flow/), a Python-based workflow
+scheduling system, which provided our scientists, engineers, and system
+analysts a common environment to run workflow suites to submit jobs on the
+HPC and other computing resources, from simple workflows to complex cycling
 workflows and from research to operation. This workflow scheduling system
 has been used by all Met Office core forecasting workflow suites for many years.
 
 I led the design, development, and lifecycle management of
 [metomi/fcm](https://github.com/metomi/fcm/), a wrapper to Subversion and a
-fully featured build system for modern Fortran applications. The latter
-provided our scientists with a very efficient environment to compile their
-code (compared to a traditional Makefile environment) and to reproduce
-build configurations. Its introduction has reduced build time of some of
-our largest science applications from hours to a few minutes. I wrote this
-system over a decade ago and it is still in use today for building our
-largest science model applications due to its efficiency and effectiveness.
+Perl-based fully featured build system for modern Fortran applications.
+The latter provided our scientists with a very efficient environment to
+compile their code (compared to a traditional Makefile environment) and to
+reproduce build configurations. Its introduction has reduced build time of
+some of our largest science applications from hours to a few minutes. I
+wrote this system over a decade ago and it is still in use today for
+building our largest science model applications due to its efficiency
+and effectiveness.
 
-I contributed to the design and development of MOOSE, the software layer
-of the Met Office massive archive system, providing users with a common
-interface to archive and access data. I contributed to the design of the
-client-server interaction and implemented the client logic. The software
-is still in production use after 15 years.
+I contributed to the design and development of MOOSE, the Java-based
+software layer of the Met Office massive archive system, providing users
+with a common interface to archive and access data. I contributed to the
+design of the client-server interaction and implemented the client logic.
+The software is still in production use after 15 years.
+
+I created a Fortran application to ingest forecast model data from
+different weather forecasting centres. The data can come in different forms,
+with grids of the globe drawn in different ways and coming in as fragements
+at different time. The application has to stitch together the fragments and
+convert the data to a format compliant to ours. The application is still in
+use after more than 15 years.
 
 I ported software systems across several generations of HPC and Linux/Unix
 clusters, some of which have very different architectures and operating systems.
