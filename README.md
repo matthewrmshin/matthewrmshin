@@ -1,6 +1,6 @@
 # About Matt
 
-Automate and simplify with software.
+Automate and simplify workflows and tasks with software solutions.
 
 I have led and contributed to various software development and lifecycle
 management activities since starting my career at the Met Office in 2002.
@@ -98,9 +98,9 @@ The software is still in production use after 15 years.
 
 I created a Fortran application to ingest forecast model data from
 different weather forecasting centres. The data can come in different forms,
-with grids of the globe drawn in different ways and coming in as fragements
-at different time. The application has to stitch together the fragments and
-convert the data to a format compliant to ours. The application is still in
+with grids of the globe drawn in different ways and coming in as fragments
+at different time. The application re-integrates the fragments and
+converts the data to a format compliant to ours. The application is still in
 use after more than 15 years.
 
 I ported software systems across several generations of HPC and Linux/Unix
